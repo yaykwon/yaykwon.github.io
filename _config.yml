@@ -3,14 +3,13 @@ repository: jojoldu/jojoldu.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: 이동욱
-title: 서버 백엔드 엔지니어
-email: jojoldu@gmail.com
+name: 권현경
+title: 실증분석/고용정책 연구자
+email: ellen3412@naver.com
 website: https://jojoldu.tistory.com
 
 # Social links
-# twitter_username: jojoldu
-github_username:  jojoldu
+github_username:  yaykwon
 # dribbble_username: jekyll
 facebook_username: jojoldu
 # flickr_username: jekyll
